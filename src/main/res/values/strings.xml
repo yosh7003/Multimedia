@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="play">PLAY</string>
+    <string name="next">NEXT</string>
+    <string name="pause">PAUSE</string>
+    <string name="beethoven_fur_elise">Beethoven - Fur Elise</string>
+    <string name="welcome_music_lover">Welcome Music lover</string>
+    <string name="todo">TODO</string>
+</resources>
